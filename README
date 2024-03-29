@@ -1,5 +1,9 @@
 Project Documentation: Vanguard Online Process Redesign Analysis
-Metadata:
+
+
+**Metadata:**
+
+
 client_id: Unique ID for each client.
 variation: Indicates if a client was part of the experiment.
 visitor_id: Unique ID for each client-device combination.
@@ -14,6 +18,8 @@ num_accts: Number of accounts the client holds with Vanguard.
 bal: Total balance spread across all client accounts.
 calls_6_mnth: Number of times the client reached out over a call in the past six months.
 logons_6_mnth: Frequency of client logins to Vanguard’s platform over the last six months.
+
+
 Introduction:
 This project analyzes client behavior data from Vanguard's online process, aiming to understand the impact of a redesign. The documentation covers data exploration, cleaning, analysis, and hypothesis testing.
 
